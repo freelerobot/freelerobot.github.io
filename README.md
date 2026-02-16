@@ -1,0 +1,2 @@
+# nicole.ai
+personal website
