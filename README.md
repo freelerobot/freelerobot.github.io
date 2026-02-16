@@ -11,7 +11,7 @@ I have 3 children:
 
 ## Connect
 
+- [X](https://x.com/freelerobot)
 - [GitHub](https://github.com/freelerobot)
 - [LinkedIn](https://linkedin.com/in/nicolezhu)
-- [X](https://x.com/freelerobot)
 - Email: nicole@menlo.ai
